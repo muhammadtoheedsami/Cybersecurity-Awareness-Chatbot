@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is Cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting computers, networks, applications, and data from digital attacks and unauthorized access."
+  },
+  {
+    "question": "What are the main goals of Cybersecurity?",
+    "answer": "The main goals are Confidentiality, Integrity, and Availability, commonly known as the CIA Triad."
+  },
+  {
+    "question": "What is Confidentiality?",
+    "answer": "Confidentiality means protecting information so that only authorized people can access it."
+  },
+  {
+    "question": "What is Integrity?",
+    "answer": "Integrity means keeping information accurate, complete, and protected from unauthorized changes."
+  },
+  {
+    "question": "What is Availability?",
+    "answer": "Availability means ensuring that systems and information are accessible to authorized users when needed."
+  },
+  {
+    "question": "What is Phishing?",
+    "answer": "Phishing is a cyberattack in which attackers use fake emails, messages, or websites to trick people into sharing sensitive information."
+  },
+  {
+    "question": "How can I identify a phishing email?",
+    "answer": "Look for suspicious links, unexpected attachments, spelling mistakes, unusual sender addresses, and messages creating urgency."
+  },
+  {
+    "question": "What is Spear Phishing?",
+    "answer": "Spear phishing is a targeted phishing attack designed for a specific person or organization."
+  },
+  {
+    "question": "What is Social Engineering?",
+    "answer": "Social engineering is a technique in which attackers manipulate people into revealing confidential information or performing unsafe actions."
+  },
+  {
+    "question": "What is Malware?",
+    "answer": "Malware is malicious software designed to damage systems, steal information, or gain unauthorized access."
+  },
+  {
+    "question": "What are the common types of Malware?",
+    "answer": "Common malware types include viruses, worms, trojans, ransomware, spyware, and adware."
+  },
+  {
+    "question": "What is a Computer Virus?",
+    "answer": "A computer virus is malicious code that attaches itself to files or programs and can spread when they are executed."
+  },
+  {
+    "question": "What is a Trojan Horse?",
+    "answer": "A Trojan Horse is malicious software that appears to be legitimate or useful but performs harmful activities."
+  },
+  {
+    "question": "What is Spyware?",
+    "answer": "Spyware is software that secretly collects information about a user's activities without proper permission."
+  },
+  {
+    "question": "What is Ransomware?",
+    "answer": "Ransomware is malware that locks or encrypts files and demands payment to restore access."
+  },
+  {
+    "question": "How can I protect my computer from Malware?",
+    "answer": "Use updated antivirus software, install security updates, avoid suspicious downloads, and open attachments only from trusted sources."
+  },
+  {
+    "question": "What is a Firewall?",
+    "answer": "A firewall is a security system that monitors and controls incoming and outgoing network traffic according to security rules."
+  },
+  {
+    "question": "What are the types of Firewalls?",
+    "answer": "Common firewall types include packet-filtering firewalls, stateful inspection firewalls, proxy firewalls, and next-generation firewalls."
+  },
+  {
+    "question": "What is Network Security?",
+    "answer": "Network security involves protecting computer networks from unauthorized access, misuse, and cyber threats."
+  },
+  {
+    "question": "What is Wi-Fi Security?",
+    "answer": "Wi-Fi security protects wireless networks from unauthorized access and data interception using security protocols and encryption."
+  },
+  {
+    "question": "What is WPA2?",
+    "answer": "WPA2 is a Wi-Fi security protocol that uses AES encryption to help protect wireless network communications."
+  },
+  {
+    "question": "What is WPA3?",
+    "answer": "WPA3 is a modern Wi-Fi security standard that provides stronger protection and improved authentication compared with WPA2."
+  },
+  {
+    "question": "What is a VPN?",
+    "answer": "A Virtual Private Network creates an encrypted connection between a device and a VPN server to help protect network traffic."
+  },
+  {
+    "question": "What is Encryption?",
+    "answer": "Encryption converts readable information into an encoded format so that unauthorized people cannot easily understand it."
+  },
+  {
+    "question": "What is Decryption?",
+    "answer": "Decryption is the process of converting encrypted information back into its original readable form using the appropriate key."
+  },
+  {
+    "question": "What is Two-Factor Authentication?",
+    "answer": "Two-Factor Authentication, or 2FA, adds another verification step to an account in addition to the password."
+  },
+  {
+    "question": "Why are strong passwords important?",
+    "answer": "Strong passwords make accounts harder to access without permission and help protect personal information."
+  },
+  {
+    "question": "What is Multi-Factor Authentication?",
+    "answer": "Multi-Factor Authentication uses two or more different verification factors to confirm a user's identity."
+  },
+  {
+    "question": "What is Hashing?",
+    "answer": "Hashing converts data into a fixed-length value using a mathematical function. It is commonly used to securely store password representations."
+  },
+  {
+    "question": "What is a Digital Signature?",
+    "answer": "A digital signature is a cryptographic method used to verify the authenticity and integrity of digital information."
+  },
+  {
+    "question": "What is Public Key Cryptography?",
+    "answer": "Public Key Cryptography uses a pair of mathematically related keys: a public key and a private key."
+  },
+  {
+    "question": "What is an IP Address?",
+    "answer": "An IP address is a numerical address used to identify a device on an IP network and support communication."
+  },
+  {
+    "question": "What is MAC Address?",
+    "answer": "A MAC address is a hardware identifier assigned to a network interface for communication on a local network."
+  },
+  {
+    "question": "What is an IDS?",
+    "answer": "An Intrusion Detection System monitors network or system activities and identifies suspicious behavior or possible security threats."
+  },
+  {
+    "question": "What is an IPS?",
+    "answer": "An Intrusion Prevention System monitors activities and can automatically block detected malicious or unauthorized network traffic."
+  },
+  {
+    "question": "What is Vulnerability Assessment?",
+    "answer": "Vulnerability Assessment is the process of identifying and evaluating security weaknesses in systems, applications, and networks."
+  },
+  {
+    "question": "What is Penetration Testing?",
+    "answer": "Penetration Testing is an authorized security assessment that evaluates systems for weaknesses using controlled testing."
+  },
+  {
+    "question": "What is Ethical Hacking?",
+    "answer": "Ethical Hacking involves legally testing computer systems and networks to identify security weaknesses and recommend improvements."
+  },
+  {
+    "question": "What is a Data Breach?",
+    "answer": "A data breach occurs when sensitive or confidential information is accessed, exposed, or disclosed without authorization."
+  },
+  {
+    "question": "How can I stay safe online?",
+    "answer": "Use strong passwords, enable two-factor authentication, update software, avoid suspicious links, and protect personal information."
+  }
+]

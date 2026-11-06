@@ -1,0 +1,37 @@
+# Local environment variables and Streamlit secrets
+.env
+.env.*
+!.env.example
+!.env.template
+.streamlit/secrets.toml
+
+# Credentials and secret files
+secrets/
+credentials/
+*.secret
+*.secrets
+*.token
+*.credentials
+*credentials*.json
+*service-account*.json
+*_service_account.json
+
+# Private keys and keystores
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+.ssh/
+.aws/credentials
+
+# Python-generated files and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
